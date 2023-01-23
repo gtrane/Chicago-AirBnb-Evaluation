@@ -2,7 +2,7 @@
 Python data analysis
 
 Relevant files:
-- Final Report.html
+- Refer to AirbnbAnalysis forked repository
 - listings.csv (this was the raw data obtained from Airbnb web scraping, which includes over 7400 rows of data)
 
 Utilizing Python, this group project evaluated neighboorhoods in Chicago in terms of Airbnb listings, safety data, and median home sales, in order to evaluate the best neighborhood to begin an AirBnb.
